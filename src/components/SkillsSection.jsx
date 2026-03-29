@@ -28,7 +28,7 @@ const skills = [
   { name: "Java", category: "backend", image:  java},
   // Backend
   { name: "Node.js",  category: "backend", image: node},
-  { name: "PostgreSQL",  category: "backend", image: postman },
+  { name: "Postman",  category: "backend", image: postman },
   // Tools
   { name: "Git/GitHub",  category: "tools", image: git },
   { name: "Docker",  category: "tools", image: docker },
